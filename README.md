@@ -1,8 +1,8 @@
-# InsightfulCruiseAnalytics
+# Insightful Cruise Analytics
 
 ## Overview
 
-InsightfulCruiseAnalytics is an advanced data analysis project aimed at unveiling deep insights into cruise booking behaviors. Utilizing state-of-the-art statistical and machine learning techniques, this project scrutinizes transactional data from web-based cruise bookings to uncover patterns and preferences in passenger behavior.
+InsightfulCruiseAnalytics is an advanced data analysis project to unveil deep insights into cruise booking behaviors. Utilizing state-of-the-art statistical and machine learning techniques, this project scrutinizes transactional data from web-based cruise bookings to uncover patterns and preferences in passenger behavior.
 
 ## Key Features
 
@@ -16,7 +16,7 @@ InsightfulCruiseAnalytics is an advanced data analysis project aimed at unveilin
 To get started with InsightfulCruiseAnalytics, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/InsightfulCruiseAnalytics.git
+git clone https://github.com/your-username/Insightful-Cruise-Analytics.git
 ```
 
 ## Prerequisites
@@ -42,14 +42,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
 - `main_analysis.py`: The primary script containing data processing, analysis, and modeling.
 - `data/`: Directory for datasets (ensure to replace placeholder paths with actual data paths).
 - `visuals/`: Directory for saving generated visualizations.
-
-## Contributing
-
-Contributions to InsightfulCruiseAnalytics are welcome! Please refer to `CONTRIBUTING.md` for guidelines on contributing.
-
-## License
-
-This project is licensed under the MIT License - see `LICENSE.md` for details.
 
 ## Acknowledgments
 
